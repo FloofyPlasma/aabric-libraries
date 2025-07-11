@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>aabric</groupId>
-  <artifactId>intermediary</artifactId>
+  <artifactId>intermediary-upstream</artifactId>
   <versioning>
     <latest>a1.1.2_01</latest>
     <release>a1.1.2_01</release>
