@@ -3,11 +3,11 @@
   <groupId>aabric-experimental</groupId>
   <artifactId>aarn</artifactId>
   <versioning>
-    <latest>a1.1.2_01+build.23</latest>
-    <release>a1.1.2_01+build.23</release>
+    <latest>a1.1.2_01+build.25</latest>
+    <release>a1.1.2_01+build.25</release>
     <versions>
-      <version>a1.1.2_01+build.23</version>
+      <version>a1.1.2_01+build.25</version>
     </versions>
-    <lastUpdated>20250712091235</lastUpdated>
+    <lastUpdated>20250712092725</lastUpdated>
   </versioning>
 </metadata>
